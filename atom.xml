@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://maryliuliu.com/"/>
-  <updated>2017-06-06T02:28:36.460Z</updated>
+  <updated>2017-06-07T03:09:16.990Z</updated>
   <id>http://maryliuliu.com/</id>
   
   <author>
@@ -14,6 +14,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="http://maryliuliu.com/2017/06/07/first/"/>
+    <id>http://maryliuliu.com/2017/06/07/first/</id>
+    <published>2017-06-07T02:28:45.000Z</published>
+    <updated>2017-06-07T03:09:16.990Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是<strong>我的第一篇文章</strong>，用hexo创建的</p>
+<p><strong>Swing语法</strong></p>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><blockquote><p>Every interaction is both precious and an opportunity to delight. </p>
+<footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
+<h1 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h1><figure class="highlight plain"><figcaption><span>compact</span><a href="http://www.baidu.com" target="_blank" rel="external">Baidu.js</a></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">compact([0,1,false,2,&apos;&apos;,3])</div><div class="line">=&gt;[1,2,3]</div></pre></td></tr></table></figure>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><a href="https://maryliuliu.github.io/nodejs-hexo" title="我的日志" target="_blank">我的日志</a>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><ul>
+<li>图片，对于本地图片，需要在source目录下面新建一个images目录存放图片 *<img class="images/1.png 这是第一张图片">
+</li>
+</ul>
+<p><strong> Markdown语法 </strong>  </p>
+<h1 id="引用-1"><a href="#引用-1" class="headerlink" title="引用"></a>引用</h1><blockquote>
+<p>Every interaction is both precious and an opportunity to delight.  </p>
+</blockquote>
+<h1 id="代码块-1"><a href="#代码块-1" class="headerlink" title="代码块"></a>代码块</h1><pre><code class="{bash}">compact([0,1,false,2,&apos;&apos;,3]);
+</code></pre>
+<h1 id="链接-1"><a href="#链接-1" class="headerlink" title="链接"></a>链接</h1><p><a href="http://linmuxi.github.io/nodejs-hexo" target="_blank" rel="external">我的日志</a>  </p>
+<h1 id="图片-1"><a href="#图片-1" class="headerlink" title="图片"></a>图片</h1><p><img src="images/1.png" alt="这是第一张图片"><br><img src="http://linmuxi.github.io/me/project/realtimeData/images/realtimeData_02.png" alt="这是第一张图片">  </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是&lt;strong&gt;我的第一篇文章&lt;/strong&gt;，用hexo创建的&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Swing语法&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;引用&quot;&gt;&lt;a href=&quot;#引用&quot; class=&quot;headerlink&quot; title=&quot;引用&quot;&gt;&lt;/a&gt;引用&lt;/h
+    
+    </summary>
+    
+      <category term="日志" scheme="http://maryliuliu.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+      <category term="2017" scheme="http://maryliuliu.com/categories/%E6%97%A5%E5%BF%97/2017/"/>
+    
+      <category term="6" scheme="http://maryliuliu.com/categories/%E6%97%A5%E5%BF%97/2017/6/"/>
+    
+      <category term="7" scheme="http://maryliuliu.com/categories/%E6%97%A5%E5%BF%97/2017/6/7/"/>
+    
+    
+      <category term="第一次" scheme="http://maryliuliu.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    
+      <category term="日记" scheme="http://maryliuliu.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
